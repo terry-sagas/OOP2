@@ -1,0 +1,7 @@
+C:\Users\jedit\Documents\Win24\OOP2\Week3\W3C2 copy\W3C2 copy\bin\Debug\W3C2 copy.exe.config
+C:\Users\jedit\Documents\Win24\OOP2\Week3\W3C2 copy\W3C2 copy\bin\Debug\W3C2 copy.exe
+C:\Users\jedit\Documents\Win24\OOP2\Week3\W3C2 copy\W3C2 copy\bin\Debug\W3C2 copy.pdb
+C:\Users\jedit\Documents\Win24\OOP2\Week3\W3C2 copy\W3C2 copy\obj\Debug\W3C2 copy.csproj.AssemblyReference.cache
+C:\Users\jedit\Documents\Win24\OOP2\Week3\W3C2 copy\W3C2 copy\obj\Debug\W3C2 copy.csproj.CoreCompileInputs.cache
+C:\Users\jedit\Documents\Win24\OOP2\Week3\W3C2 copy\W3C2 copy\obj\Debug\W3C2 copy.exe
+C:\Users\jedit\Documents\Win24\OOP2\Week3\W3C2 copy\W3C2 copy\obj\Debug\W3C2 copy.pdb

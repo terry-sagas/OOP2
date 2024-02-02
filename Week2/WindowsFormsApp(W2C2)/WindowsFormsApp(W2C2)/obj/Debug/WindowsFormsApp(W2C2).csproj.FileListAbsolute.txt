@@ -1,0 +1,10 @@
+C:\Users\jedit\Documents\Win24\OOP2\Week2\WindowsFormsApp(W2C2)\WindowsFormsApp(W2C2)\bin\Debug\WindowsFormsApp(W2C2).exe.config
+C:\Users\jedit\Documents\Win24\OOP2\Week2\WindowsFormsApp(W2C2)\WindowsFormsApp(W2C2)\bin\Debug\WindowsFormsApp(W2C2).exe
+C:\Users\jedit\Documents\Win24\OOP2\Week2\WindowsFormsApp(W2C2)\WindowsFormsApp(W2C2)\bin\Debug\WindowsFormsApp(W2C2).pdb
+C:\Users\jedit\Documents\Win24\OOP2\Week2\WindowsFormsApp(W2C2)\WindowsFormsApp(W2C2)\obj\Debug\WindowsFormsApp(W2C2).csproj.AssemblyReference.cache
+C:\Users\jedit\Documents\Win24\OOP2\Week2\WindowsFormsApp(W2C2)\WindowsFormsApp(W2C2)\obj\Debug\WindowsFormsApp_W2C2_.Form1.resources
+C:\Users\jedit\Documents\Win24\OOP2\Week2\WindowsFormsApp(W2C2)\WindowsFormsApp(W2C2)\obj\Debug\WindowsFormsApp_W2C2_.Properties.Resources.resources
+C:\Users\jedit\Documents\Win24\OOP2\Week2\WindowsFormsApp(W2C2)\WindowsFormsApp(W2C2)\obj\Debug\WindowsFormsApp(W2C2).csproj.GenerateResource.cache
+C:\Users\jedit\Documents\Win24\OOP2\Week2\WindowsFormsApp(W2C2)\WindowsFormsApp(W2C2)\obj\Debug\WindowsFormsApp(W2C2).csproj.CoreCompileInputs.cache
+C:\Users\jedit\Documents\Win24\OOP2\Week2\WindowsFormsApp(W2C2)\WindowsFormsApp(W2C2)\obj\Debug\WindowsFormsApp(W2C2).exe
+C:\Users\jedit\Documents\Win24\OOP2\Week2\WindowsFormsApp(W2C2)\WindowsFormsApp(W2C2)\obj\Debug\WindowsFormsApp(W2C2).pdb

@@ -1,0 +1,10 @@
+C:\Users\jedit\Documents\Win24\OOP2\Week4\WindowsFormsApp1W4C1_Example\WindowsFormsApp1W4C1_Example\bin\Debug\WindowsFormsApp1W4C1_Example.exe.config
+C:\Users\jedit\Documents\Win24\OOP2\Week4\WindowsFormsApp1W4C1_Example\WindowsFormsApp1W4C1_Example\bin\Debug\WindowsFormsApp1W4C1_Example.exe
+C:\Users\jedit\Documents\Win24\OOP2\Week4\WindowsFormsApp1W4C1_Example\WindowsFormsApp1W4C1_Example\bin\Debug\WindowsFormsApp1W4C1_Example.pdb
+C:\Users\jedit\Documents\Win24\OOP2\Week4\WindowsFormsApp1W4C1_Example\WindowsFormsApp1W4C1_Example\obj\Debug\WindowsFormsApp1W4C1_Example.csproj.AssemblyReference.cache
+C:\Users\jedit\Documents\Win24\OOP2\Week4\WindowsFormsApp1W4C1_Example\WindowsFormsApp1W4C1_Example\obj\Debug\WindowsFormsApp1W4C1_Example.Form1.resources
+C:\Users\jedit\Documents\Win24\OOP2\Week4\WindowsFormsApp1W4C1_Example\WindowsFormsApp1W4C1_Example\obj\Debug\WindowsFormsApp1W4C1_Example.Properties.Resources.resources
+C:\Users\jedit\Documents\Win24\OOP2\Week4\WindowsFormsApp1W4C1_Example\WindowsFormsApp1W4C1_Example\obj\Debug\WindowsFormsApp1W4C1_Example.csproj.GenerateResource.cache
+C:\Users\jedit\Documents\Win24\OOP2\Week4\WindowsFormsApp1W4C1_Example\WindowsFormsApp1W4C1_Example\obj\Debug\WindowsFormsApp1W4C1_Example.csproj.CoreCompileInputs.cache
+C:\Users\jedit\Documents\Win24\OOP2\Week4\WindowsFormsApp1W4C1_Example\WindowsFormsApp1W4C1_Example\obj\Debug\WindowsFormsApp1W4C1_Example.exe
+C:\Users\jedit\Documents\Win24\OOP2\Week4\WindowsFormsApp1W4C1_Example\WindowsFormsApp1W4C1_Example\obj\Debug\WindowsFormsApp1W4C1_Example.pdb
